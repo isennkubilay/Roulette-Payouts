@@ -19,5 +19,6 @@ Pay 1 to 18
 If the simulation results in 0 or 00 then your program should display Pay 0 or
 Pay 00 without any further output.
 
+👇👇👇🤙
 
 [![Run on Repl.it](https://repl.it/badge/github/isennkubilay/Roulette-Payouts)](https://repl.it/github/isennkubilay/Roulette-Payouts)
